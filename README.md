@@ -4,8 +4,5 @@
   </samp>
 </p>
 
-<div align="center">
-  <a href="https://github.com/ilario92/ilario92/blob/master/src/github-contribution-grid-snake.svg">
-    <img width="80%" src="https://github.com/ilario92/ilario92/blob/master/src/github-contribution-grid-snake.svg" />
-  </a>
-</div>
+
+![snake gif](https://github.com/ilario92/ilario92/blob/output/github-contribution-grid-snake.svg)
